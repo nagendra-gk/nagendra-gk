@@ -1,7 +1,8 @@
 # 👋 Hi, I’m Nagendra G.K  
 
 
-**MIS Analyst with strong experience in Excel, dashboards, and data analysis. Skilled in Power BI and MySQL, and passionate about turning data into actionable business insights.**
+MIS Analyst with strong experience in Excel, dashboards, and data analysis. Skilled in Power BI and MySQL, and passionate about turning data into actionable business insights.
+
 ---
 
 ## 🛠 Skills  

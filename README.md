@@ -26,4 +26,4 @@ MIS Analyst with strong experience in Excel, dashboards, and data analysis. Skil
 
 ---
 
-Thanks for visiting! Feel free to reach out via [ nagendragk00@gamil.com ] or connect on LinkedIn[https://www.linkedin.com/in/nagendra-g-k-630767341].
+Thanks for visiting! Feel free to reach out via [ nagendragk00@gamil.com ] or connect on LinkedIn[https://www.linkedin.com/in/nagendragk].

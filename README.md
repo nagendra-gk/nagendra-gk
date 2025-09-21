@@ -13,7 +13,7 @@ MIS Analyst with strong experience in Excel, dashboards, and data analysis. Skil
 | Automation | VBA, Macros |
 | BI & Visualization | Power BI (dashboards, DAX), Charts & Graphs, Reports, KPI Tracking |
 | Reporting & MIS | Monthly/Quarterly Reports, Trend Analysis, Business Metrics |
-| Database | MySQL (Basic Queries) |
+| Database | MySQL |
 
 ---
 

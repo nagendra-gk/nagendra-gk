@@ -19,7 +19,7 @@ Looking for opportunities to apply my analytical skills and grow into a **Data A
 |---|---|
 | Data Analysis | Excel (Formulas, PivotTables) | Data Cleaning | Data Accuracy |
 | Automation | VBA, Macros |
-| BI & Visualization | Power BI (dashboards, DAX), Charts & Graphs, Reports, KPI Tracking |
+| BI & Visualization | Power BI (dashboards, DAX), Charts & Graphs, KPI Tracking |
 | Reporting & MIS | Monthly/Quarterly Reports, Trend Analysis, Business Metrics |
 | Database | MySQL |
  

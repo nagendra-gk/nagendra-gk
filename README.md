@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Nagendra G.K</h1>
-<h3 align="center">💼 MIS Executive | 📊 Data Enthusiast | 💻 Excel • Power BI • MySQL</h3>
+<h3 align="center">💼 MIS Executive | 💻 Excel • Power BI • MySQL</h3>
 
 ---
 
@@ -14,10 +14,16 @@ Looking for opportunities to apply my analytical skills and grow into a **Data A
 
 ### 🧰 Skills  
 
-**Excel:** Formulas, PivotTables, Power Pivot, Conditional Formatting  
-**Automation:** VBA, Macros  
-**Power BI:** Dashboards, DAX  
-**MySQL:** Queries, Joins, Data Management  
+## 🛠 Skills  
+
+| Category | Skills & Tools |
+|---|---|
+| Data Analysis | Excel (Formulas, PivotTables) | Data Cleaning | Data Accuracy |
+| Automation | VBA, Macros |
+| BI & Visualization | Power BI (dashboards, DAX), Charts & Graphs, Reports, KPI Tracking |
+| Reporting & MIS | Monthly/Quarterly Reports, Trend Analysis, Business Metrics |
+| Database | MySQL |
+ 
 
 ---
 

@@ -27,3 +27,21 @@ MIS Analyst with strong experience in Excel, dashboards, and data analysis. Skil
 ---
 
 Thanks for visiting! Feel free to reach out via [ nagendragk00@gamil.com ] or connect on LinkedIn.
+
+
+<!-- 🌐 How to Reach Me -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-nagendra--g--k--630767341-0A66C2?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/nagendra-g-k-630767341)
+[![GitHub](https://img.shields.io/badge/GitHub-nagendra--gk-181717?logo=github&logoColor=white&style=flat-square)](https://github.com/nagendra-gk)
+[![Email](https://img.shields.io/badge/Email-nagendragk00%40gmail.com-D14836?logo=gmail&logoColor=white&style=flat-square)](mailto:nagendragk00@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-_.g__k__.-E4405F?logo=instagram&logoColor=white&style=flat-square)](https://www.instagram.com/_.g_k._)
+
+<br>
+
+❤️ **By Nagendra G K**
+
+
+
+<br>
+
+❤️ [By Nagendra G K](https://github.com/nagendra-gk)
+

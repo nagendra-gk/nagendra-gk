@@ -11,8 +11,6 @@ Looking for opportunities to apply my analytical skills and grow into a **Data A
 
 ---
 
-### 🧰 Skills  
-
 ## 🛠 Skills  
 
 | Category | Skills & Tools |

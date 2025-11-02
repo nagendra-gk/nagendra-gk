@@ -1,17 +1,4 @@
 <h1 align="center">👋 Hi, I'm Nagendra G.K</h1>
----
-
-<h1 align="center" style="background: linear-gradient(90deg, #0078ff, #00c6ff); -webkit-background-clip: text; color: transparent;">👋 Hi, I'm Nagendra G.K</h1>
-
-
----
-<h1 align="center">👋 Hey, I'm <span style="color:#0078ff;">Nagendra G.K</span> 💾</h1>
-<h3 align="center">Turning Data into Decisions 📊</h3>
----
-
-<h1 align="center">🔹 N A G E N D R A &nbsp; G . K 🔹</h1>
-<h3 align="center">Excel • Power BI • MySQL • VBA</h3>
----
 
 ---
 

@@ -1,5 +1,4 @@
 <h1 align="center">👋 Hi, I'm Nagendra G.K</h1>
-<h3 align="center">💼 MIS Executive | 💻 Excel • Power BI • MySQL</h3>
 
 ---
 

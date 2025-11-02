@@ -14,12 +14,10 @@ Looking for opportunities to apply my analytical skills and grow into a **Data A
 
 ### 🧰 Skills  
 
-| Category | Tools & Skills |
-|-----------|----------------|
-| **Data Analysis** | Excel (Formulas, PivotTables), Data Cleaning |
-| **Automation** | VBA, Macros |
-| **Visualization** | Power BI (Dashboards, Reports, DAX) |
-| **Database** | MySQL (Queries, Joins, Data Management) |
+**Excel:** Formulas, PivotTables, Power Pivot, Conditional Formatting  
+**Automation:** VBA, Macros  
+**Power BI:** Dashboards, DAX  
+**MySQL:** Queries, Joins, Data Management  
 
 ---
 
